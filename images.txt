@@ -1,4 +1,4 @@
-metabase
+metabase:latest
 #nginx
 #metabase
 #支持私库
